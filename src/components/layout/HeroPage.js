@@ -6,12 +6,12 @@ const HeroPage = () => {
     <Fragment>
       <section className='text-box' id='text-box'>
         <h1>
-          Outstanding Investment{' '}
-          <span style={{ color: '#f44336' }}>Intelligence and Strategy</span>
+          Accelerating Excellence{' '}
+          <span style={{ color: '#f44336' }}>with Trust</span>
         </h1>
         <p>
-          We are committed in leading financial freedom to
-          exciting realities.
+          Accelerating developmental excellence in real estate, exterior -
+          interior designs, and facility and property management.
         </p>
         <Link to='/About' className='hero-btn' id='hero-btn'>
           Visit Us To Know More
