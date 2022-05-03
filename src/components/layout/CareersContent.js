@@ -14,10 +14,11 @@ const CareersContent = () => {
             add values to our community.
             <br />
             <br />
-            Potential applicants whose skill sets align to: Investment Law,
-            Accounting, Economics, Banking and Finance, and Tax should reach out
-            to our Human Resource department to find out if there are job
-            openings.
+            Potential applicants whose skill sets align to: Investment and Real
+            Estate Law, Accounting, Economics, Banking and Finance, Tax, Real
+            Estate Agency, Designs, Facility and Property Management and other
+            technical professions should reach out to our Human Resource
+            department to find out if there are job openings.
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Our Focus</span> ~
@@ -27,7 +28,7 @@ const CareersContent = () => {
             <span style={{ color: '#f44336' }}>End - Goal</span> ~ Freedom.
           </p>
           <a
-            href='https://www.linkedin.com/company/purringca/jobs/?viewAsMember=true'
+            href='https://www.linkedin.com/company/purringre/jobs/?viewAsMember=true'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'

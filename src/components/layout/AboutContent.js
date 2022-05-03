@@ -10,16 +10,26 @@ const AboutContent = () => {
             <span style={{ color: '#f44336' }}>Realities...</span>
           </h1>
           <p>
-            Purring Capital is a financial and investment company. It is
-            committed to proffering incredible and sustainable values to its
-            clients and communities.
+            Purring Real Estate, Design and Facilities is a real estate
+            partnership company. With sound relationships, partnership and
+            executive presence, we have positioned ourselves to accelerating
+            developmental excellence in real estate, exterior and interior
+            designs, and facility and property management.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
+            Our interest and undertakings span across various spaces from
+            residential, through commercial, to industrial assets.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Specialties</span> ~ General
-            Contracts.
+            We proffer sustainable development and support to exciting
+            realities.
+            <br />
+            <br />
+            <span style={{ color: '#f44336' }}>Founded</span> ~ 2021.
+            <br />
+            <br />
+            <span style={{ color: '#f44336' }}>Specialties</span> ~ Real Estate,
+            Design, Facilities and General Contracts.
           </p>
           <a
             href='https://twitter.com/_Purring_?t=3tbsLvQKm_qYSVL9DBlcbg&s=08'

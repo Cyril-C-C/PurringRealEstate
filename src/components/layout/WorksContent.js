@@ -10,27 +10,29 @@ const WorksContent = () => {
             <span style={{ color: '#f44336' }}>You Deserve</span>
           </h1>
           <p>
-            We diversify our investment portfolios all across conservative
-            through volatile to very volatile investment opportunities in
-            sustainable approach.
+            We have established unique and strong relationships with our
+            associates and partners towards excellence and sound delivery.
             <br />
             <br />
-            Consistency and great timing shape how we build our vision, culture
-            and portfolios. We have goals, through which we meet by best
-            strategies and intelligences.
+            Bespoke, yet simplified designs give great feeling of satisfaction
+            and homeliness. Our designs speak volume works put in to making it
+            happen.
             <br />
             <br />
-            Purring Capital has invested in: Technology Company.
+            Consistency and great timing shape how we build our culture and
+            practices. We have targets, through which we meet by best strategies
+            and intelligences.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
+            <span style={{ color: '#f44336' }}>Founded</span> ~ 2021.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Specialties</span> ~ General
-            Contracts and Technology Services.
+            <span style={{ color: '#f44336' }}>Specialties</span> ~ Real Estate,
+            Interior and Exterior Designs, Facility and Property Management,
+            General Contracts and Technology Services.
           </p>
           <a
-            href='https://www.linkedin.com/company/purringca'
+            href='https://www.linkedin.com/company/purringre'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'

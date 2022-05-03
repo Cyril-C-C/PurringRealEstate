@@ -11,8 +11,8 @@ const TeamContent = () => {
           <p>
             Our high performance culture yields best investment results that
             stand up to the toughest and volatility of marketplace. We will
-            continue to learn, study and analyse periodic market performances in
-            taking best and unique opportunities available.
+            continue to learn, study and analyse periodic market and technical
+            performances in taking best and unique opportunities available.
             <br />
             <br />
             We're not rock stars, zombies, or magicians. We're authentic,
@@ -21,13 +21,13 @@ const TeamContent = () => {
             and build collaborative partnerships, not vendor relationships.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Team Members</span> ~ 10.
+            <span style={{ color: '#f44336' }}>Team Members</span> ~ 50.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Portfolios</span> ~ 3.
+            <span style={{ color: '#f44336' }}>Portfolios</span> ~ Multiple.
           </p>
           <a
-            href='https://www.linkedin.com/company/purringca'
+            href='https://www.linkedin.com/company/purringre'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'
