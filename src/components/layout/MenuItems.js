@@ -25,7 +25,7 @@ export const MenuItems = [
     cName: 'dropdown-link',
   },
   {
-    title: 'Tax Team',
+    title: 'Technical',
     path: '/testing',
     cName: 'dropdown-link',
   },

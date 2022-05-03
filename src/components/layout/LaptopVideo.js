@@ -11,11 +11,12 @@ const LaptopVideo = () => {
           </h1>
           <p>
             Our vision is to play roles and become one of key and successful
-            investment companies.
+            real estate, design and facilities companies.
             <br />
             <br />
             Our Mission is to set remarkable trails as we contribute to our
-            partners, other companies and governmental institutions.
+            associates, partners, communities, companies and governmental
+            institutions.
             <br />
             <br />
             Our goals are met through elements of consistency, patience, skills
@@ -32,7 +33,7 @@ const LaptopVideo = () => {
             <span style={{ color: '#f44336' }}>End - Goal</span> ~ Freedom.
           </p>
           <a
-            href='https://www.linkedin.com/company/purringca/'
+            href='https://www.linkedin.com/company/purringre/'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'

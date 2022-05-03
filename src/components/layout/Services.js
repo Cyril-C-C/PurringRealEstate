@@ -5,24 +5,24 @@ const Services = () => {
     <Fragment>
       <section className='testiomonial'>
         <h1>Services</h1>
-        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
-          Real Estate
-        </h1>
+        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>Real Estate</h1>
         <p>
-          We diversify our investment portfolios all across conservative through
-          volatile to very volatile investment opportunities in sustainable
-          approach.
+          In this space, we have established unique and strong relationships
+          with our associates and partners towards excellence and sound
+          delivery.
         </p>
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-briefcase' id='set' aria-hidden='true' />
             <section>
-              <span>Angel Investment</span>
+              <span>Agency</span>
               <hr />
               <p>
-                As we grow, we look forward to playing roles and becoming one of
-                key angel investors.
+                We have spread our networks with the view to providing our
+                esteemed customers with incredible services towards meeting all
+                their pain points. Our agents operate across all major cities
+                and other localities of need.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -39,7 +39,9 @@ const Services = () => {
               <hr />
               <p>
                 Through collaborations and use of technology, we aim at
-                achieving remarkable success in our undertakings.
+                achieving remarkable success in our undertakings to meeting ever
+                growing demand of useful inventions, innovations and smart
+                services. All towards approaching Industry 4.0.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -55,8 +57,10 @@ const Services = () => {
               <span>Risk Management</span>
               <hr />
               <p>
-                Risks in investing are inevitable; but still, they can be
-                mitigated through data collections and analyses.
+                With data, expert analyses and of course, government backing, we
+                mitigate risks associated with land use, legal, geology,
+                architectural designs, engineering material and constructions,
+                and all other technical practices.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -70,24 +74,23 @@ const Services = () => {
       <hr />
 
       <section className='testiomonial'>
-        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
-          Designs
-        </h1>
+        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>Designs</h1>
         <p>
-          Consistency and great timing shape how we build our vision, culture
-          and portfolios. We have goals, through which we meet by best
-          strategies and intelligences.
+          Bespoke, yet simplified designs give great feeling of satisfaction and
+          homeliness. Our designs speak volume works put in to making it happen.
         </p>
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-shopping-basket' id='set' aria-hidden='true' />
+            <i class='fa fa-building' id='set' aria-hidden='true' />
             <section>
-              <span>Stocks & Bonds</span>
+              <span>Architectural</span>
               <hr />
               <p>
-                Our expertise carefully analyses stocks and bonds investment
-                opportunities before we move to such deals of interest.
+                Structural design has the first and pivotal importance of any
+                building. Our experts find it a great pleasure to design not
+                just sustainable, but classic and modern strutures that can
+                stand the tests of both time and rugged terrains.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -98,13 +101,15 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-address-card-o' id='set' aria-hidden='true' />
+            <i class='fa fa-chair' id='set' aria-hidden='true' />
             <section>
-              <span>REITs & Crowdfunding</span>
+              <span>Interior</span>
               <hr />
               <p>
                 We stay at par with world emerging tech, climate and business
-                intelligences when it comes to real estate deals.
+                intelligences when it comes to interior design deals. Designs
+                that accomodate styles and personifications of individuals,
+                families and corporations.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -115,13 +120,15 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-signal' id='set' aria-hidden='true' />
+            <i class='fa fa-tree' id='set' aria-hidden='true' />
             <section>
-              <span>Crytography</span>
+              <span>Exterior</span>
               <hr />
               <p>
-                We position, with least portions of our portfolio, to taking
-                best advantages in fungible and non - fungible tokens.
+                Great exterior designs create ambiance of refreshedness,
+                peaceful and natural reception. With world emerging tech,
+                climate and business intelligences, we design cool environments
+                in their very most organic perceptions.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -132,27 +139,27 @@ const Services = () => {
           </section>
         </section>
       </section>
-      <hr/>
+      <hr />
 
       <section className='testiomonial'>
-        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
-          Facilities
-        </h1>
+        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>Facilities</h1>
         <p>
-          Consistency and great timing shape how we build our vision, culture
-          and portfolios. We have goals, through which we meet by best
-          strategies and intelligences.
+          Consistency and great timing shape how we build our culture and
+          practices. We have targets, through which we meet by best strategies
+          and intelligences.
         </p>
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-shopping-basket' id='set' aria-hidden='true' />
+            <i class='fa fa-table' id='set' aria-hidden='true' />
             <section>
-              <span>Stocks & Bonds</span>
+              <span>Management</span>
               <hr />
               <p>
-                Our expertise carefully analyses stocks and bonds investment
-                opportunities before we move to such deals of interest.
+                Our expertise in facility and property management has
+                demonstrated over the years that assets not properly managed is
+                worse than no asset. We carefully schedule work - loads with the
+                view to meeting all requirements and needs.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -163,13 +170,15 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-address-card-o' id='set' aria-hidden='true' />
+            <i class='fa fa-laptop' id='set' aria-hidden='true' />
             <section>
-              <span>REITs & Crowdfunding</span>
+              <span>Training & Consultation</span>
               <hr />
               <p>
-                We stay at par with world emerging tech, climate and business
-                intelligences when it comes to real estate deals.
+                Individuals, firms, non - profit organizations, governmental
+                agencies, etc. reach out to us for training and consultation.
+                Our teams of experts have positioned themselves in serving and
+                maintaining high stardards in all practices.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -180,13 +189,15 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-signal' id='set' aria-hidden='true' />
+            <i class='fa fa-globe' id='set' aria-hidden='true' />
             <section>
-              <span>Crytography</span>
+              <span>General Contracts</span>
               <hr />
               <p>
-                We position, with least portions of our portfolio, to taking
-                best advantages in fungible and non - fungible tokens.
+                With keen focus in leveraging our resources to sustaining homes,
+                offices, farms, stadiums, factories, etc., we take up projects
+                and outsource when needed in order to provide best solutions and
+                professional services required.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>

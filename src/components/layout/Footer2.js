@@ -41,7 +41,7 @@ const Footer2 = () => {
             <i className='fa fa-github' id='fa fa-github' />
           </a> */}
           <a
-            href='https://www.linkedin.com/company/purringca'
+            href='https://www.linkedin.com/company/purringre'
             target='_blank'
             rel='noreferrer'
           >
