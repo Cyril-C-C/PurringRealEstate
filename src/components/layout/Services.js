@@ -89,7 +89,7 @@ const Services = () => {
               <p>
                 Structural design has the first and pivotal importance of any
                 building. Our experts find it a great pleasure to design not
-                just sustainable, but classic and modern strutures that can
+                just sustainable, but classic and modern structures that can
                 stand the tests of both time and rugged terrains.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -178,7 +178,7 @@ const Services = () => {
                 Individuals, firms, non - profit organizations, governmental
                 agencies, etc. reach out to us for training and consultation.
                 Our teams of experts have positioned themselves in serving and
-                maintaining high stardards in all practices.
+                maintaining high standards in all practices.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
