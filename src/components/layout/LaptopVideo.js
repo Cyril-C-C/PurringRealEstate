@@ -14,7 +14,7 @@ const LaptopVideo = () => {
             real estate, design and facilities companies.
             <br />
             <br />
-            Our Mission is to set remarkable trails as we contribute to our
+            Our mission is to set remarkable trails as we contribute to our
             associates, partners, communities, companies and governmental
             institutions.
             <br />

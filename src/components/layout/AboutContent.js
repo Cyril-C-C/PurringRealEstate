@@ -21,7 +21,7 @@ const AboutContent = () => {
             residential, through commercial, to industrial assets.
             <br />
             <br />
-            We proffer sustainable development and support to exciting
+            We proffer sustainable developments and support to exciting
             realities.
             <br />
             <br />
